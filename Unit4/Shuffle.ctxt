@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=nums
+comment1.target=boolean\ ordered(int[])
+numComments=2

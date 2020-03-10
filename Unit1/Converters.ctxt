@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=bin
+comment1.target=int\ binToDec(java.lang.String)
+comment2.params=dec
+comment2.target=java.lang.String\ decToBin(int)
+numComments=3

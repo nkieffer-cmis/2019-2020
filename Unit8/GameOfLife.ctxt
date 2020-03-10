@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=board\ y\ x
+comment1.target=int\ getNeighborScore(int[][],\ int,\ int)
+comment2.params=board
+comment2.target=int[][]\ getNextGen(int[][])
+comment2.text=\n\ Game\ Of\ Life\ Rules\n\ 1.\ Any\ live\ cell\ with\ fewer\ than\ two\ live\ neighbours\ dies,\ as\ if\ caused\ by\ under-population.\n\ 2.\ Any\ live\ cell\ with\ two\ or\ three\ live\ neighbours\ lives\ on\ to\ the\ next\ generation.\n\ 3.\ Any\ live\ cell\ with\ more\ than\ three\ live\ neighbours\ dies,\ as\ if\ by\ over-population.\n\ 4.\ Any\ dead\ cell\ with\ exactly\ three\ live\ neighbours\ becomes\ a\ live\ cell,\ as\ if\ by\ reproduction.\n
+comment3.params=w\ h\ prob
+comment3.target=int[][]\ getBoard(int,\ int,\ double)
+comment4.params=board
+comment4.target=void\ print(int[][])
+numComments=5

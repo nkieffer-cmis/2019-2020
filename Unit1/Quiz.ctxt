@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=a\ b
+comment1.target=int\ sumOfSquares(int,\ int)
+comment2.params=a\ b
+comment2.target=double\ squareOfSum(double,\ double)
+comment3.params=a\ b\ c
+comment3.target=double\ avg(int,\ int,\ int)
+comment4.params=a\ b\ c
+comment4.target=double\ avgOfCubes(double,\ double,\ double)
+comment5.params=a\ b\ c
+comment5.target=double\ cubeOfAvg(int,\ int,\ int)
+comment6.params=a\ b\ c
+comment6.target=int\ sum(double,\ double,\ double)
+numComments=7

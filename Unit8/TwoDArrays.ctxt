@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=matrix\ rowMajor
+comment1.target=void\ print(int[][],\ boolean)
+comment2.params=matrix
+comment2.target=double\ average(int[][])
+comment3.params=matrix
+comment3.target=int[]\ minMax(int[][])
+comment4.params=matrix\ rowSum
+comment4.target=int\ greatest(int[][],\ boolean)
+comment5.params=matrix\ amt
+comment5.target=void\ shift(int[][],\ int)
+numComments=6

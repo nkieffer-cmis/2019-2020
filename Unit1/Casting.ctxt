@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ oneOrZero()
+comment1.params=
+comment1.target=int\ zeroTo99()
+comment2.params=n
+comment2.target=int\ zeroToN(int)
+comment2.text=\ \ public\ static\ double\ zeroTo99(){\n\ \ \ \ \ \ \ \ return\ Math.random()\ *\ 100;\n\ \ \ \ }\n
+comment3.params=n
+comment3.target=double\ zeroToN(double)
+comment4.params=min\ max
+comment4.target=int\ minToMax(int,\ int)
+comment5.params=min\ max
+comment5.target=double\ minToMax(double,\ double)
+numComments=6

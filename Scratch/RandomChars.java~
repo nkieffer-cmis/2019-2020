@@ -1,0 +1,17 @@
+class RandomChars implements Readable{
+    private final char[] chars;
+    private final double prob;
+    public RandomChars(char[] chars, double prob){
+	this.chars = chars;
+	this.prob = prob;
+    }
+
+    public int read(CharBuffer cb){
+	int ct = -1;
+	while(Math.random() > prob){
+	    cp.append(chars[(int)(Math.random() * chars.length)]);
+	    ct++;
+	}
+	return ct;
+    }
+}

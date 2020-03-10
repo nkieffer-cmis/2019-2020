@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ forever()
+comment2.params=n
+comment2.target=void\ forawhile(int)
+comment3.params=n\ x
+comment3.target=int\ multiply(int,\ int)
+comment4.params=n\ x
+comment4.target=int\ divide(int,\ int)
+numComments=5

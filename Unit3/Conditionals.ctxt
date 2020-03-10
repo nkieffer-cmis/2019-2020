@@ -1,0 +1,37 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=low\ high\ v
+comment1.target=boolean\ between(int,\ int,\ int)
+comment1.text=\n\ Return\ true\ if\ v\ is\ between\ low\ and\ high\n
+comment10.params=word\ c
+comment10.target=java.lang.String\ shortSide(java.lang.String,\ java.lang.String)
+comment10.text=\n\ split\ the\ word\ at\ character\ c.\n\ return\ the\ shorter\ of\ the\ 2\ strings\ on\ either\ side\ of\ the\ split.\n\ if\ they\ are\ the\ same\ length\ concatenate\ them\ and\ return\n\ example\:\n\ c\ ->\ "c"\n\ word\ ->\ "racecar"\n\ return\ value\ ->\ "ra"\n\ \n\ c\ ->\ "e"\n\ word\ ->\ "racecar"\n\ return\ ->\ "raccar"\n\ \n\ c\ ->\ "u"\n\ word\ ->\ "computer"\n\ return\ ->\ "ter"\n
+comment11.params=word\ c
+comment11.target=boolean\ tooMany(java.lang.String,\ java.lang.String)
+comment11.text=\n\ return\ true\ if\ there\ are\ more\ than\ 3\ occurances\ of\ c\ in\ the\ string\ word.\n\ \n\ word\ ->\ "banana"\n\ c\ ->\ "a"\n\ return\ ->\ false\n\ \n\ word\ ->\ "alabama"\n\ c\ ->\ "a"\n\ return\ ->\ true\n
+comment2.params=low\ high\ v
+comment2.target=boolean\ notBetween(int,\ int,\ int)
+comment2.text=\n\ Return\ true\ if\ v\ is\ not\ between\ low\ and\ high\n
+comment3.params=a\ b\ c
+comment3.target=int\ greatestEven(int,\ int,\ int)
+comment3.text=\n\ Return\ the\ greatestEven\ number\ from\ a,\ b,\ and\ c\n
+comment4.params=v\ a\ b
+comment4.target=boolean\ isMultipleOf(int,\ int,\ int)
+comment4.text=\n\ return\ true\ if\ v\ is\ a\ multiple\ of\ both\ a\ and\ b\n
+comment5.params=s1\ s2\ s3
+comment5.target=boolean\ isIsoscelese(int,\ int,\ int)
+comment5.text=\n\ return\ true\ if\ s1,\ s2,\ and\ s3\ could\ possibly\ represent\ the\ lengths\ of\ the\ sides\ of\ an\ isoscelese\ triangle.\n
+comment6.params=s1\ s2\ s3
+comment6.target=boolean\ isEqualateral(int,\ int,\ int)
+comment6.text=\n\ Return\ true\ if\ s1,\ s1,\ and\ s3\ could\ represent\ the\ lengths\ of\ the\ sides\ of\ an\ equalateral\ triangle.\n
+comment7.params=q\ x\ c
+comment7.target=boolean\ isPythTrip(int,\ int,\ int)
+comment7.text=\n\ Return\ true\ if\ q,\ x,\ and\ c\ are\ a\ valid\ pythagorean\ triple\ (i.e.\ a^2\ +\ b^2\ \=\ c^2)\n\ Any\ combination\ of\ the\ three\ can\ make\ it\ valid,\ not\ necessarily\ in\ the\ order\ given.\n
+comment8.params=s1\ s2\ s3
+comment8.target=boolean\ isTriangle(int,\ int,\ int)
+comment8.text=\n\ return\ true\ if\ s1,\ s2,\ and\ s3\ represent\ the\ length\ of\ the\ sides\ of\ a\ triangle.\n
+comment9.params=ps\ word
+comment9.target=boolean\ isPrefixAndSuffix(java.lang.String,\ java.lang.String)
+comment9.text=\n\ return\ true\ if\ word\ begins\ and\ ends\ with\ ps\n
+numComments=12

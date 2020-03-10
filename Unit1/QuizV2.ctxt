@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=a\ b
+comment1.target=int\ diffOfCubes(int,\ int)
+comment1.text=\n\ Write\ a\ method\ that\ returns\ the\ difference\ of\ the\ cubes\ of\ 2\ numbers.\n\ \n\ diffOfCubes(3,\ 6)\ ->\ -189\n\ diffOfCubes(6,\ 4)\ ->\ 152\n\ diffOfCubes(-6,\ 4)\ ->\ -280\n
+comment2.params=a\ b
+comment2.target=double\ cubeOfDiff(double,\ double)
+comment2.text=\n\ Write\ a\ method\ that\ returns\ the\ cube\ of\ the\ difference\ between\ 2\ numbers.\n\ \n\ cubeOfDiff(5,\ 4)\ ->\ 1.0\n\ cubeOfDiff(5.3,\ 4.1)\ ->\ 1.7280000000000006\n\ cubeOfDiff(7.3,\ 14.1)\ ->\ -314.43199999999996\n
+comment3.params=a\ b\ c
+comment3.target=double\ avg(int,\ int,\ int)
+comment3.text=\n\ Write\ a\ method\ that\ returns\ the\ average\ of\ 3\ numbers\n\ \n\ avg(2,\ 3,\ 5)\ ->\ 3.3333333333333335\n\ avg(-22,\ 3,\ 5)\ ->\ -4.666666666666667\n
+comment4.params=a\ b\ c
+comment4.target=double\ avgOfCubes(double,\ double,\ double)
+comment4.text=\n\ Write\ a\ method\ that\ returns\ the\ average\ of\ the\ cubes\ of\ 3\ numbers.\n\ \n\ avgOfCubes(4.5,\ 6.1,\ 8.0)\ ->\ 276.702\n\ avgOfCubes(0.0,\ 6.1,\ -0.8)\ ->\ 75.48966666666665\ \n\ \n
+comment5.params=a\ b\ c
+comment5.target=double\ cubeOfAvg(int,\ int,\ int)
+comment5.text=\n\ Write\ a\ method\ that\ returns\ the\ cube\ of\ the\ average\ of\ 3\ numbers.\n\ \n\ cubeOfAvg(1,\ 4,\ 6)\ ->\ 49.29629629629629\n\ cubeOfAvg(1,\ 4,\ -3)\ ->\ 0.2962962962962963\n
+comment6.params=a\ b\ c
+comment6.target=int\ sum(double,\ double,\ double)
+comment6.text=\n\ Write\ a\ method\ that\ returns\ the\ sum\ of\ 3\ numbers\n\ \n\ sum(2.9,\ 2.1,\ 2.0)\ ->\ 6\n\ sum(2,\ 2,\ 2)\ ->\ 6\n
+numComments=7

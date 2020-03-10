@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=w\ h
+comment1.target=java.lang.String\ multTable(int,\ int)
+numComments=2

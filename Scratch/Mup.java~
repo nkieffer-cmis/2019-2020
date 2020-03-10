@@ -1,0 +1,9 @@
+import java.util.Scanner;
+class Mup{
+    public static void main(String[] argv){
+	Scanner input = new Scanner("data.txt");
+	do {
+	    System.out.println(input.nextInt());
+	}while (true);
+    }
+}

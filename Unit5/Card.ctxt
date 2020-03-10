@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=rank\ suit
+comment0.target=Card(int,\ int)
+comment1.params=other
+comment1.target=int\ compareTo(java.lang.Object)
+comment2.params=
+comment2.target=Card\ randomCard()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=argv
+comment4.target=void\ main(java.lang.String[])
+numComments=5
